@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Clean architecture / Angular / NestJs / Nx / Prisma
 - 💞️ I’m looking to collaborate on web applications
-- 📫 How to reach me filippo.gelmetti@gmail.com
+- 📫 How to reach me geficko@gmail.com
 
 <!---
 filippogelmetti/filippogelmetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
